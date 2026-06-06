@@ -1,5 +1,5 @@
 body {
-  background-color: #4d341a;
+  background-color: #04a6eb;
   color: #fdffff;
   width: 500px;
   margin-right: auto;
@@ -7,10 +7,10 @@ body {
 }
 button {
   padding: 5px 20px;
-  background-color: #163523;
-  border-style: none;
+  background-color: #337ab7;
   color: #fdffff;
+  border-style: none;
 }
 input {
-  height: 24px;
-} 
+  height: 20px;
+}
